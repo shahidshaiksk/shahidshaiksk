@@ -5,7 +5,7 @@
 - 🌱 I’m currently learning **Spring** and its applications
 - 🛠 Motivating myself into building few useful projects
 - 💬 Feel free to ping me any time
-- 👩🏻‍💻 My [Portfolio](https://shahidshaiksk.github.io/Personal-Portfolio-Website/)
+- 👩🏻‍💻 My [Portfolio](https://shahidshaiksk.github.io/portfolio/)
 
 ---
 

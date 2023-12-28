@@ -1,8 +1,8 @@
 <h2 align="center"> Hi there 👋, I'm Shahid </h2>
 
-- **I am a CSE student at GPREC, Kurnool.**
-- 🔭 I’m currently working on building my profile as a **Java Developer**
-- 🌱 I’m currently learning **Spring** and its applications
+- **I am a Junior Software Engineer with knowledge on multiple programming languages as Java, Golang and Python.**
+- 🔭 I’m trained in **Spring Framework(Java), Django Framework(Python) and Golang Concurrency**
+- 🌱 I’m can create mircoservice architecture based API applications in all three languages I mentioned above
 - 🛠 Motivating myself into building few useful projects
 - 💬 Feel free to ping me any time
 - 👩🏻‍💻 My [Portfolio](https://shahidshaiksk.github.io/portfolio/)
@@ -36,7 +36,7 @@
   <img height="32" width="32" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" /> </a>
 <a href = "https://www.instagram.com/shahidshaiksk/">
   <img height="32" width="32" src="https://www.vectorlogo.zone/logos/instagram/instagram-tile.svg" /> </a>
-<a href = "https://www.facebook.com/sk.shahid.15/">
+<a href = "https://www.facebook.com/shahidshaiksk/">
   <img height="32" width="32" src="https://www.vectorlogo.zone/logos/facebook/facebook-tile.svg" /> </a>
 </a>
 </p>

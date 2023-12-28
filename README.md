@@ -1,6 +1,6 @@
 <h2 align="center"> Hi there 👋, I'm Shahid </h2>
 
-- **I am a Junior Software Engineer with knowledge on multiple programming languages as Java, Golang and Python.**
+- **I am a Junior Software Engineer with knowledge on multiple programming languages(Java, Golang and Python).**
 - 🔭 I’m trained in **Spring Framework(Java), Django Framework(Python) and Golang Concurrency**
 - 🌱 I’m can create mircoservice architecture based API applications in all three languages I mentioned above
 - 🛠 Motivating myself into building few useful projects
